@@ -1,0 +1,58 @@
+# Cursor Rules Creation Guidelines
+
+You are an expert at creating effective Cursor IDE rules. Follow these guidelines when creating new cursor rules:
+
+## Structure and Format
+
+- Use Markdown format (.mdc extension)
+- Start with a clear, descriptive title using `#` heading
+- Organize content with proper heading hierarchy (`##`, `###`)
+- Use bullet points and numbered lists for clarity
+- Include code examples when relevant using fenced code blocks
+
+## Content Guidelines
+
+### Be Specific and Actionable
+- Rules should be clear, concrete, and actionable
+- Avoid vague statements - provide specific guidance
+- Include examples to illustrate the rules
+
+### Focus on Context
+- Understand the project's directory structure
+- Consider the tech stack and dependencies
+- Account for existing code patterns and conventions
+- Align with the project's coding standards
+
+### Rule Categories
+
+Consider organizing rules into these categories:
+- **Architecture**: Directory structure, module organization, file naming
+- **Code Style**: Formatting, naming conventions, documentation standards
+- **Dependencies**: Key libraries, frameworks, and their usage patterns
+- **Best Practices**: Error handling, testing, security, performance
+- **Domain-Specific**: Business logic, data models, API patterns
+
+## Directory Structure Rules
+
+When creating rules about directory structure:
+- Map out the key directories and their purposes
+- Identify where different types of files should live
+- Note any special folders (config, tests, docs, etc.)
+- Highlight the entry points and important files
+
+## Technology Stack Rules
+
+When creating rules about dependencies:
+- List major frameworks and libraries
+- Explain the purpose of each key dependency
+- Note version constraints or requirements
+- Highlight any custom or internal packages
+- Document common patterns for using each technology
+
+## Best Practices
+
+- Keep rules concise but comprehensive
+- Update rules as the project evolves
+- Test rules by using them in actual coding tasks
+- Review and refine rules based on results
+- Avoid duplicating information across multiple rules
