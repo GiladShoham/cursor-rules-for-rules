@@ -2,7 +2,6 @@
   "name": "cursor-rules-for-rules",
   "version": "1.0.0",
   "description": "A repo for rules to create cursor rules",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +15,6 @@
     "ai",
     "development"
   ],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GiladShoham/cursor-rules-for-rules/issues"
